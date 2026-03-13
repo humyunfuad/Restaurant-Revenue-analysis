@@ -21,4 +21,9 @@ Data exploration and cleaning (if there is any missing data)
 Data analysis, e.g., Descriptive analytics (calculating mean, median, and standard deviation) and Predictive analytics (e.g., using Linear regression to predict tips per day)
 
 Observation:
-Mean tips percentage 16.09 (approximately)
+Mean tips percentage 16.09 (approximately).
+# Total Bill amount have higher standard deviation in Sunday and lower in Friday
+# Sunday has the higher total bill on average
+#Percentage of tip (tips per total bill) is a smooth uniform distribution with the mean near $18 
+#Total bill mean near $15 with slightly inclinations towards left
+#Mean value of the total tip is near $2 although the distribution is not completely uniform in bothsides of the mean
